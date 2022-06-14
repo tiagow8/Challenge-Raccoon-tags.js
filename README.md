@@ -1,4 +1,4 @@
-# tiagow8-tiagow8-Challenge-Raccoon-tags.js
+# Challenge-Raccoon-tags.js
 Arquivos js de testes desenvolvidos para um Challenge do processo seletivo da RACCOON.
 
 Nestes testes foi focado práticas funcionais buscando uma maior performance nos arquivos em questão.
